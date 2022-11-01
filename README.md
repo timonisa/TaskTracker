@@ -1,2 +1,2 @@
-# java-kanban
-Repository for homework project.
+# Task tracker
+Repository for task tracker.
